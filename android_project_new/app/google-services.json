@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745508032446",
+    "firebase_url": "https://time-to-go-adc58.firebaseio.com",
+    "project_id": "time-to-go-adc58",
+    "storage_bucket": "time-to-go-adc58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745508032446:android:eeea21d74244ffcff533ef",
+        "android_client_info": {
+          "package_name": "com.example.firebase_datagather2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745508032446-h6h91thjnop4io261got1ns2taif3a7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_datagather2",
+            "certificate_hash": "80bb53ecb9a91a8587c242a6d5e50b5062f99371"
+          }
+        },
+        {
+          "client_id": "745508032446-nd7p7sj22sig4n8mamhnjk2funa28npd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLyoEQka3n9T-HWc0A_KBtwbTdiPzKX3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745508032446-nd7p7sj22sig4n8mamhnjk2funa28npd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
